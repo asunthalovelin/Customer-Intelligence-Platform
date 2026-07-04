@@ -1,9 +1,3 @@
-# Portfolio-Ready Resume Bullets
-
-These bullet points are structured using the Google **X-Y-Z formula** ("Accomplished [X] as measured by [Y], by doing [Z]") to showcase impact in data science interviews.
-
----
-
 * **Built an end-to-end Customer Intelligence Platform** that scores **94k+ accounts** for retention prioritization, yielding **R$ 6.5M** in forecasted customer lifetime value (CLV) and isolating **R$ 4.2M** in expected revenue-at-risk.
 * **Engineered 20+ behavioral, experiential, and financial features** from Olist transaction logs; mitigated data leakage by dropping raw dates and recency aggregates before classifier fit, establishing clean predictive features.
 * **Developed an XGBoost churn classifier achieving a 0.8225 ROC-AUC**, outperforming Logistic Regression (0.5864) and Random Forest (0.7389), while maintaining a **95.7% Recall** to maximize retention lead capture.
