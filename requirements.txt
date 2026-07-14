@@ -1,0 +1,13 @@
+pandas
+numpy
+pyarrow
+scikit-learn
+xgboost
+shap
+plotly
+streamlit
+matplotlib
+seaborn
+joblib
+ipykernel
+ipywidgets
